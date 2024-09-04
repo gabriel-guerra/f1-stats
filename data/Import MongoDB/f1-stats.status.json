@@ -1,0 +1,973 @@
+[{
+  "_id": {
+    "$oid": "66d831c3e18598e190816da6"
+  },
+  "statusId": 1,
+  "status": "Finished"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816da7"
+  },
+  "statusId": 2,
+  "status": "Disqualified"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816da8"
+  },
+  "statusId": 3,
+  "status": "Accident"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816da9"
+  },
+  "statusId": 4,
+  "status": "Collision"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816daa"
+  },
+  "statusId": 5,
+  "status": "Engine"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dab"
+  },
+  "statusId": 6,
+  "status": "Gearbox"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dac"
+  },
+  "statusId": 7,
+  "status": "Transmission"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dad"
+  },
+  "statusId": 8,
+  "status": "Clutch"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dae"
+  },
+  "statusId": 9,
+  "status": "Hydraulics"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816daf"
+  },
+  "statusId": 10,
+  "status": "Electrical"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db0"
+  },
+  "statusId": 11,
+  "status": "+1 Lap"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db1"
+  },
+  "statusId": 12,
+  "status": "+2 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db2"
+  },
+  "statusId": 13,
+  "status": "+3 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db3"
+  },
+  "statusId": 14,
+  "status": "+4 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db4"
+  },
+  "statusId": 15,
+  "status": "+5 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db5"
+  },
+  "statusId": 16,
+  "status": "+6 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db6"
+  },
+  "statusId": 17,
+  "status": "+7 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db7"
+  },
+  "statusId": 18,
+  "status": "+8 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db8"
+  },
+  "statusId": 19,
+  "status": "+9 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816db9"
+  },
+  "statusId": 20,
+  "status": "Spun off"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dba"
+  },
+  "statusId": 21,
+  "status": "Radiator"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dbb"
+  },
+  "statusId": 22,
+  "status": "Suspension"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dbc"
+  },
+  "statusId": 23,
+  "status": "Brakes"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dbd"
+  },
+  "statusId": 24,
+  "status": "Differential"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dbe"
+  },
+  "statusId": 25,
+  "status": "Overheating"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dbf"
+  },
+  "statusId": 26,
+  "status": "Mechanical"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc0"
+  },
+  "statusId": 27,
+  "status": "Tyre"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc1"
+  },
+  "statusId": 28,
+  "status": "Driver Seat"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc2"
+  },
+  "statusId": 29,
+  "status": "Puncture"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc3"
+  },
+  "statusId": 30,
+  "status": "Driveshaft"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc4"
+  },
+  "statusId": 31,
+  "status": "Retired"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc5"
+  },
+  "statusId": 32,
+  "status": "Fuel pressure"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc6"
+  },
+  "statusId": 33,
+  "status": "Front wing"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc7"
+  },
+  "statusId": 34,
+  "status": "Water pressure"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc8"
+  },
+  "statusId": 35,
+  "status": "Refuelling"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dc9"
+  },
+  "statusId": 36,
+  "status": "Wheel"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dca"
+  },
+  "statusId": 37,
+  "status": "Throttle"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dcb"
+  },
+  "statusId": 38,
+  "status": "Steering"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dcc"
+  },
+  "statusId": 39,
+  "status": "Technical"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dcd"
+  },
+  "statusId": 40,
+  "status": "Electronics"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dce"
+  },
+  "statusId": 41,
+  "status": "Broken wing"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dcf"
+  },
+  "statusId": 42,
+  "status": "Heat shield fire"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd0"
+  },
+  "statusId": 43,
+  "status": "Exhaust"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd1"
+  },
+  "statusId": 44,
+  "status": "Oil leak"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd2"
+  },
+  "statusId": 45,
+  "status": "+11 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd3"
+  },
+  "statusId": 46,
+  "status": "Wheel rim"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd4"
+  },
+  "statusId": 47,
+  "status": "Water leak"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd5"
+  },
+  "statusId": 48,
+  "status": "Fuel pump"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd6"
+  },
+  "statusId": 49,
+  "status": "Track rod"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd7"
+  },
+  "statusId": 50,
+  "status": "+17 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd8"
+  },
+  "statusId": 51,
+  "status": "Oil pressure"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dd9"
+  },
+  "statusId": 128,
+  "status": "+42 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dda"
+  },
+  "statusId": 53,
+  "status": "+13 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816ddb"
+  },
+  "statusId": 54,
+  "status": "Withdrew"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816ddc"
+  },
+  "statusId": 55,
+  "status": "+12 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816ddd"
+  },
+  "statusId": 56,
+  "status": "Engine fire"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dde"
+  },
+  "statusId": 129,
+  "status": "Engine misfire"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816ddf"
+  },
+  "statusId": 58,
+  "status": "+26 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de0"
+  },
+  "statusId": 59,
+  "status": "Tyre puncture"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de1"
+  },
+  "statusId": 60,
+  "status": "Out of fuel"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de2"
+  },
+  "statusId": 61,
+  "status": "Wheel nut"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de3"
+  },
+  "statusId": 62,
+  "status": "Not classified"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de4"
+  },
+  "statusId": 63,
+  "status": "Pneumatics"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de5"
+  },
+  "statusId": 64,
+  "status": "Handling"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de6"
+  },
+  "statusId": 65,
+  "status": "Rear wing"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de7"
+  },
+  "statusId": 66,
+  "status": "Fire"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de8"
+  },
+  "statusId": 67,
+  "status": "Wheel bearing"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816de9"
+  },
+  "statusId": 68,
+  "status": "Physical"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dea"
+  },
+  "statusId": 69,
+  "status": "Fuel system"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816deb"
+  },
+  "statusId": 70,
+  "status": "Oil line"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dec"
+  },
+  "statusId": 71,
+  "status": "Fuel rig"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816ded"
+  },
+  "statusId": 72,
+  "status": "Launch control"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dee"
+  },
+  "statusId": 73,
+  "status": "Injured"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816def"
+  },
+  "statusId": 74,
+  "status": "Fuel"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df0"
+  },
+  "statusId": 75,
+  "status": "Power loss"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df1"
+  },
+  "statusId": 76,
+  "status": "Vibrations"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df2"
+  },
+  "statusId": 77,
+  "status": "107% Rule"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df3"
+  },
+  "statusId": 78,
+  "status": "Safety"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df4"
+  },
+  "statusId": 79,
+  "status": "Drivetrain"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df5"
+  },
+  "statusId": 80,
+  "status": "Ignition"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df6"
+  },
+  "statusId": 81,
+  "status": "Did not qualify"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df7"
+  },
+  "statusId": 82,
+  "status": "Injury"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df8"
+  },
+  "statusId": 83,
+  "status": "Chassis"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816df9"
+  },
+  "statusId": 84,
+  "status": "Battery"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dfa"
+  },
+  "statusId": 85,
+  "status": "Stalled"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dfb"
+  },
+  "statusId": 86,
+  "status": "Halfshaft"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dfc"
+  },
+  "statusId": 87,
+  "status": "Crankshaft"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dfd"
+  },
+  "statusId": 88,
+  "status": "+10 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dfe"
+  },
+  "statusId": 89,
+  "status": "Safety concerns"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816dff"
+  },
+  "statusId": 90,
+  "status": "Not restarted"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e00"
+  },
+  "statusId": 91,
+  "status": "Alternator"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e01"
+  },
+  "statusId": 92,
+  "status": "Underweight"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e02"
+  },
+  "statusId": 93,
+  "status": "Safety belt"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e03"
+  },
+  "statusId": 94,
+  "status": "Oil pump"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e04"
+  },
+  "statusId": 95,
+  "status": "Fuel leak"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e05"
+  },
+  "statusId": 96,
+  "status": "Excluded"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e06"
+  },
+  "statusId": 97,
+  "status": "Did not prequalify"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e07"
+  },
+  "statusId": 98,
+  "status": "Injection"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e08"
+  },
+  "statusId": 99,
+  "status": "Distributor"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e09"
+  },
+  "statusId": 100,
+  "status": "Driver unwell"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e0a"
+  },
+  "statusId": 101,
+  "status": "Turbo"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e0b"
+  },
+  "statusId": 102,
+  "status": "CV joint"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e0c"
+  },
+  "statusId": 103,
+  "status": "Water pump"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e0d"
+  },
+  "statusId": 104,
+  "status": "Fatal accident"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e0e"
+  },
+  "statusId": 105,
+  "status": "Spark plugs"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e0f"
+  },
+  "statusId": 106,
+  "status": "Fuel pipe"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e10"
+  },
+  "statusId": 107,
+  "status": "Eye injury"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e11"
+  },
+  "statusId": 108,
+  "status": "Oil pipe"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e12"
+  },
+  "statusId": 109,
+  "status": "Axle"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e13"
+  },
+  "statusId": 110,
+  "status": "Water pipe"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e14"
+  },
+  "statusId": 111,
+  "status": "+14 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e15"
+  },
+  "statusId": 112,
+  "status": "+15 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e16"
+  },
+  "statusId": 113,
+  "status": "+25 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e17"
+  },
+  "statusId": 114,
+  "status": "+18 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e18"
+  },
+  "statusId": 115,
+  "status": "+22 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e19"
+  },
+  "statusId": 116,
+  "status": "+16 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e1a"
+  },
+  "statusId": 117,
+  "status": "+24 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e1b"
+  },
+  "statusId": 118,
+  "status": "+29 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e1c"
+  },
+  "statusId": 119,
+  "status": "+23 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e1d"
+  },
+  "statusId": 120,
+  "status": "+21 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e1e"
+  },
+  "statusId": 121,
+  "status": "Magneto"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e1f"
+  },
+  "statusId": 122,
+  "status": "+44 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e20"
+  },
+  "statusId": 123,
+  "status": "+30 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e21"
+  },
+  "statusId": 124,
+  "status": "+19 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e22"
+  },
+  "statusId": 125,
+  "status": "+46 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e23"
+  },
+  "statusId": 126,
+  "status": "Supercharger"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e24"
+  },
+  "statusId": 127,
+  "status": "+20 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e25"
+  },
+  "statusId": 130,
+  "status": "Collision damage"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e26"
+  },
+  "statusId": 131,
+  "status": "Power Unit"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e27"
+  },
+  "statusId": 132,
+  "status": "ERS"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e28"
+  },
+  "statusId": 133,
+  "status": "+49 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e29"
+  },
+  "statusId": 134,
+  "status": "+38 Laps"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e2a"
+  },
+  "statusId": 135,
+  "status": "Brake duct"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e2b"
+  },
+  "statusId": 136,
+  "status": "Seat"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e2c"
+  },
+  "statusId": 137,
+  "status": "Damage"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e2d"
+  },
+  "statusId": 138,
+  "status": "Debris"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e2e"
+  },
+  "statusId": 139,
+  "status": "Illness"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e2f"
+  },
+  "statusId": 140,
+  "status": "Undertray"
+},
+{
+  "_id": {
+    "$oid": "66d831c3e18598e190816e30"
+  },
+  "statusId": 141,
+  "status": "Cooling system"
+}]
