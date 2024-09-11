@@ -1,24 +1,55 @@
 # colocar um .env com as senhas
-version: 'latest'
+version: '3.9'
 
 services:
 
-  db:
-    image: postgres
-    restart: always
-    # set shared memory limit when using docker-compose
-    shm_size: 128mb
-    # or set shared memory limit when deploy via swarm stack
-    #volumes:
-    #  - type: tmpfs
-    #    target: /dev/shm
-    #    tmpfs:
-    #      size: 134217728 # 128*2^20 bytes = 128Mb
-    environment:
-      POSTGRES_PASSWORD: example
+  # Postgres -----------------------------------------------------------------------
+  # db:
+  #   image: postgres
+  #   restart: always
+  #   # set shared memory limit when using docker-compose
+  #   shm_size: 128mb
+  #   # or set shared memory limit when deploy via swarm stack
+  #   #volumes:
+  #   #  - type: tmpfs
+  #   #    target: /dev/shm
+  #   #    tmpfs:
+  #   #      size: 134217728 # 128*2^20 bytes = 128Mb
+  #   environment:
+  #     POSTGRES_PASSWORD: example
+  #
+  # adminer:
+  # image: adminer
+  # restart: always
+  # ports:
+  #   - 8080:8080
+  # Postgres -----------------------------------------------------------------------
 
-  adminer:
-    image: adminer
+  mongo-test:
+    image: mongo
+    command: mongod --port 27014
     restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    container_name: mongo-test
     ports:
-      - 8080:8080
+      - "27014:27014"
+
+  mongo-dev:
+    image: mongo
+    command: mongod --port 27015
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    container_name: mongo-dev
+    ports:
+      - "27015:27015"
+    # volumes:
+    #   - mongo-data:/data/db
+
+# volumes:
+#   mongo-data:
+
+
