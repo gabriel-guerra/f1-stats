@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "66d82e4de18598e19077e39d",
+        "driverId": 1,
+        "driverRef": "hamilton",
+        "number": 44,
+        "code": "HAM",
+        "forename": "Lewis",
+        "surname": "Hamilton",
+        "dob": "1985-01-07T00:00:00.000Z",
+        "nationality": "British",
+        "url": "http://en.wikipedia.org/wiki/Lewis_Hamilton"
+      },
+      {
+        "_id": "66d82e4de18598e19077e39e",
+        "driverId": 2,
+        "driverRef": "heidfeld",
+        "number": "\\N",
+        "code": "HEI",
+        "forename": "Nick",
+        "surname": "Heidfeld",
+        "dob": "1977-05-10T00:00:00.000Z",
+        "nationality": "German",
+        "url": "http://en.wikipedia.org/wiki/Nick_Heidfeld"
+      },
+      {
+        "_id": "66d82e4de18598e19077e39f",
+        "driverId": 3,
+        "driverRef": "rosberg",
+        "number": 6,
+        "code": "ROS",
+        "forename": "Nico",
+        "surname": "Rosberg",
+        "dob": "1985-06-27T00:00:00.000Z",
+        "nationality": "German",
+        "url": "http://en.wikipedia.org/wiki/Nico_Rosberg"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a0",
+        "driverId": 4,
+        "driverRef": "alonso",
+        "number": 14,
+        "code": "ALO",
+        "forename": "Fernando",
+        "surname": "Alonso",
+        "dob": "1981-07-29T00:00:00.000Z",
+        "nationality": "Spanish",
+        "url": "http://en.wikipedia.org/wiki/Fernando_Alonso"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a1",
+        "driverId": 5,
+        "driverRef": "kovalainen",
+        "number": "\\N",
+        "code": "KOV",
+        "forename": "Heikki",
+        "surname": "Kovalainen",
+        "dob": "1981-10-19T00:00:00.000Z",
+        "nationality": "Finnish",
+        "url": "http://en.wikipedia.org/wiki/Heikki_Kovalainen"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a2",
+        "driverId": 6,
+        "driverRef": "nakajima",
+        "number": "\\N",
+        "code": "NAK",
+        "forename": "Kazuki",
+        "surname": "Nakajima",
+        "dob": "1985-01-11T00:00:00.000Z",
+        "nationality": "Japanese",
+        "url": "http://en.wikipedia.org/wiki/Kazuki_Nakajima"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a3",
+        "driverId": 7,
+        "driverRef": "bourdais",
+        "number": "\\N",
+        "code": "BOU",
+        "forename": "Sébastien",
+        "surname": "Bourdais",
+        "dob": "1979-02-28T00:00:00.000Z",
+        "nationality": "French",
+        "url": "http://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a4",
+        "driverId": 8,
+        "driverRef": "raikkonen",
+        "number": 7,
+        "code": "RAI",
+        "forename": "Kimi",
+        "surname": "Räikkönen",
+        "dob": "1979-10-17T00:00:00.000Z",
+        "nationality": "Finnish",
+        "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a5",
+        "driverId": 9,
+        "driverRef": "kubica",
+        "number": 88,
+        "code": "KUB",
+        "forename": "Robert",
+        "surname": "Kubica",
+        "dob": "1984-12-07T00:00:00.000Z",
+        "nationality": "Polish",
+        "url": "http://en.wikipedia.org/wiki/Robert_Kubica"
+      },
+      {
+        "_id": "66d82e4de18598e19077e3a6",
+        "driverId": 10,
+        "driverRef": "glock",
+        "number": "\\N",
+        "code": "GLO",
+        "forename": "Timo",
+        "surname": "Glock",
+        "dob": "1982-03-18T00:00:00.000Z",
+        "nationality": "German",
+        "url": "http://en.wikipedia.org/wiki/Timo_Glock"
+      }      
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "_id": "66d8301fe18598e19080ad30",
+        "raceId": 841,
+        "driverId": 153,
+        "stop": 1,
+        "lap": 1,
+        "time": "17:05:23",
+        "duration": 26.898,
+        "milliseconds": 26898
+      },
+      {
+        "_id": "66d8301fe18598e19080ad31",
+        "raceId": 841,
+        "driverId": 30,
+        "stop": 1,
+        "lap": 1,
+        "time": "17:05:52",
+        "duration": 25.021,
+        "milliseconds": 25021
+      },
+      {
+        "_id": "66d8301fe18598e19080ad32",
+        "raceId": 841,
+        "driverId": 17,
+        "stop": 1,
+        "lap": 11,
+        "time": "17:20:48",
+        "duration": 23.426,
+        "milliseconds": 23426
+      },
+      {
+        "_id": "66d8301fe18598e19080ad33",
+        "raceId": 841,
+        "driverId": 4,
+        "stop": 1,
+        "lap": 12,
+        "time": "17:22:34",
+        "duration": 23.251,
+        "milliseconds": 23251
+      },
+      {
+        "_id": "66d8301fe18598e19080ad34",
+        "raceId": 841,
+        "driverId": 13,
+        "stop": 1,
+        "lap": 13,
+        "time": "17:24:10",
+        "duration": 23.842,
+        "milliseconds": 23842
+      },
+      {
+        "_id": "66d8301fe18598e19080ad35",
+        "raceId": 841,
+        "driverId": 22,
+        "stop": 1,
+        "lap": 13,
+        "time": "17:24:29",
+        "duration": 23.643,
+        "milliseconds": 23643
+      },
+      {
+        "_id": "66d8301fe18598e19080ad36",
+        "raceId": 841,
+        "driverId": 20,
+        "stop": 1,
+        "lap": 14,
+        "time": "17:25:17",
+        "duration": 22.603,
+        "milliseconds": 22603
+      },
+      {
+        "_id": "66d8301fe18598e19080ad37",
+        "raceId": 841,
+        "driverId": 814,
+        "stop": 1,
+        "lap": 14,
+        "time": "17:26:03",
+        "duration": 24.863,
+        "milliseconds": 24863
+      },
+      {
+        "_id": "66d8301fe18598e19080ad38",
+        "raceId": 841,
+        "driverId": 816,
+        "stop": 1,
+        "lap": 14,
+        "time": "17:26:50",
+        "duration": 25.259,
+        "milliseconds": 25259
+      },
+      {
+        "_id": "66d8301fe18598e19080ad39",
+        "raceId": 841,
+        "driverId": 67,
+        "stop": 1,
+        "lap": 15,
+        "time": "17:27:34",
+        "duration": 25.342,
+        "milliseconds": 25342
+      },
+      {
+        "_id": "66d8301fe18598e19080ad3a",
+        "raceId": 841,
+        "driverId": 2,
+        "stop": 1,
+        "lap": 15,
+        "time": "17:27:41",
+        "duration": 22.994,
+        "milliseconds": 22994
+      },
+      {
+        "_id": "66d8301fe18598e19080ad3b",
+        "raceId": 841,
+        "driverId": 1,
+        "stop": 1,
+        "lap": 16,
+        "time": "17:28:24",
+        "duration": 23.227,
+        "milliseconds": 23227
+      },
+      {
+        "_id": "66d8301fe18598e19080ad3c",
+        "raceId": 841,
+        "driverId": 808,
+        "stop": 1,
+        "lap": 16,
+        "time": "17:28:39",
+        "duration": 24.535,
+        "milliseconds": 24535
+      }      
+]

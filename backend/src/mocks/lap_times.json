@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "66d82fb4e18598e19077e6f9",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 1,
+        "position": 1,
+        "time": "1:38.109",
+        "milliseconds": 98109
+      },
+      {
+        "_id": "66d82fb4e18598e19077e6fa",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 2,
+        "position": 1,
+        "time": "1:33.006",
+        "milliseconds": 93006
+      },
+      {
+        "_id": "66d82fb4e18598e19077e6fb",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 3,
+        "position": 1,
+        "time": "1:32.713",
+        "milliseconds": 92713
+      },
+      {
+        "_id": "66d82fb4e18598e19077e6fc",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 4,
+        "position": 1,
+        "time": "1:32.803",
+        "milliseconds": 92803
+      },
+      {
+        "_id": "66d82fb4e18598e19077e6fd",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 5,
+        "position": 1,
+        "time": "1:32.342",
+        "milliseconds": 92342
+      },
+      {
+        "_id": "66d82fb4e18598e19077e6fe",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 6,
+        "position": 1,
+        "time": "1:32.605",
+        "milliseconds": 92605
+      },
+      {
+        "_id": "66d82fb4e18598e19077e6ff",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 7,
+        "position": 1,
+        "time": "1:32.502",
+        "milliseconds": 92502
+      },
+      {
+        "_id": "66d82fb4e18598e19077e700",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 8,
+        "position": 1,
+        "time": "1:32.537",
+        "milliseconds": 92537
+      },
+      {
+        "_id": "66d82fb4e18598e19077e701",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 9,
+        "position": 1,
+        "time": "1:33.240",
+        "milliseconds": 93240
+      },
+      {
+        "_id": "66d82fb4e18598e19077e702",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 10,
+        "position": 1,
+        "time": "1:32.572",
+        "milliseconds": 92572
+      },
+      {
+        "_id": "66d82fb4e18598e19077e703",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 11,
+        "position": 1,
+        "time": "1:32.669",
+        "milliseconds": 92669
+      },
+      {
+        "_id": "66d82fb4e18598e19077e704",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 12,
+        "position": 1,
+        "time": "1:32.902",
+        "milliseconds": 92902
+      },
+      {
+        "_id": "66d82fb4e18598e19077e705",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 13,
+        "position": 1,
+        "time": "1:33.698",
+        "milliseconds": 93698
+      },
+      {
+        "_id": "66d82fb4e18598e19077e706",
+        "raceId": 841,
+        "driverId": 20,
+        "lap": 14,
+        "position": 3,
+        "time": "1:52.075",
+        "milliseconds": 112075
+      }      
+]

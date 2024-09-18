@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "66d831c3e18598e190816da6",
+        "statusId": 1,
+        "status": "Finished"
+      },
+      {
+        "_id": "66d831c3e18598e190816da7",
+        "statusId": 2,
+        "status": "Disqualified"
+      },
+      {
+        "_id": "66d831c3e18598e190816da8",
+        "statusId": 3,
+        "status": "Accident"
+      },
+      {
+        "_id": "66d831c3e18598e190816da9",
+        "statusId": 4,
+        "status": "Collision"
+      },
+      {
+        "_id": "66d831c3e18598e190816daa",
+        "statusId": 5,
+        "status": "Engine"
+      },
+      {
+        "_id": "66d831c3e18598e190816dab",
+        "statusId": 6,
+        "status": "Gearbox"
+      },
+      {
+        "_id": "66d831c3e18598e190816dac",
+        "statusId": 7,
+        "status": "Transmission"
+      },
+      {
+        "_id": "66d831c3e18598e190816dad",
+        "statusId": 8,
+        "status": "Clutch"
+      },
+      {
+        "_id": "66d831c3e18598e190816dae",
+        "statusId": 9,
+        "status": "Hydraulics"
+      },
+      {
+        "_id": "66d831c3e18598e190816daf",
+        "statusId": 10,
+        "status": "Electrical"
+      },
+      {
+        "_id": "66d831c3e18598e190816db0",
+        "statusId": 11,
+        "status": "+1 Lap"
+      },
+      {
+        "_id": "66d831c3e18598e190816db1",
+        "statusId": 12,
+        "status": "+2 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db2",
+        "statusId": 13,
+        "status": "+3 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db3",
+        "statusId": 14,
+        "status": "+4 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db4",
+        "statusId": 15,
+        "status": "+5 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db5",
+        "statusId": 16,
+        "status": "+6 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db6",
+        "statusId": 17,
+        "status": "+7 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db7",
+        "statusId": 18,
+        "status": "+8 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db8",
+        "statusId": 19,
+        "status": "+9 Laps"
+      },
+      {
+        "_id": "66d831c3e18598e190816db9",
+        "statusId": 20,
+        "status": "Spun off"
+      },
+      {
+        "_id": "66d831c3e18598e190816dba",
+        "statusId": 21,
+        "status": "Radiator"
+      },
+      {
+        "_id": "66d831c3e18598e190816dbb",
+        "statusId": 22,
+        "status": "Suspension"
+      }      
+]
